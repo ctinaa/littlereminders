@@ -1,4 +1,4 @@
-# littlereminders
+# Little_Reminders
 
 For the little reminders that people forget about in life. 
 
