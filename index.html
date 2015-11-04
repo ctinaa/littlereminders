@@ -7,10 +7,36 @@
 	<div class = "parent">
 		<div class = "child">  
 		<center> Little Reminders </center>
+		<!-- Typed JS -->
+		<script src="jquery-1.11.3.min.js"></script>
+		<script src="typed.js"></script>
+		<script>
+		  $(function(){
+		      $(".element").typed({
+		        strings: ["jhghjghj", "kjhjkh"],
+		        typeSpeed: 30
+		      });
+		  });
+		</script> 
+		<div class="element"></div>
+		<!-- End Typed JS  -->
+		<div class ="phrase">
+		<form>
+			<input type="text" name="item"><br>
+
+		</form>
 		</div>
+		</div>
+
 	</div>
 
+<!-- 
+To do: 
+	-Add database using MongoDB
+	-Have ability to add more items
+	-key left or right to see new ones 
 
+ -->
 
 </body>
 
