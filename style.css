@@ -1,8 +1,11 @@
-html {
-	background color: blue;
-
+body {
+	background color: #252243;
+	position: relative;
+  	top: 50%;
+  	transform: translateY(-50%)
 }
-.message {
-	color: white;
+#message {
+	color: #ECF0F1;
+
 
 }
