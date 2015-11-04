@@ -1,11 +1,10 @@
 body {
-	background color: #252243;
-	position: relative;
-  	top: 50%;
-  	transform: translateY(-50%)
+	background-color: #252243;
+
 }
 #message {
 	color: #ECF0F1;
-
-
+	position: relative;
+  	top: 50%;
+  	transform: translateY(-50%)
 }
