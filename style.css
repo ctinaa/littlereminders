@@ -16,6 +16,11 @@ body {
 	transform: 			translateY(-50%);*/
 }
 
+.thankful-script {
+	color: #ECF0F1;
+	font-size: 80px;
+
+}
 /*Typed JS*/
 .typed-cursor{
     opacity: 1;
@@ -38,4 +43,5 @@ body {
     50% { opacity:0; }
     100% { opacity:1; }
 }
+
 
