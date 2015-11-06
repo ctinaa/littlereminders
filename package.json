@@ -1,0 +1,24 @@
+{
+  "name": "littlereminders",
+  "version": "1.0.0",
+  "description": "For the little reminders that people forget about in life.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "bower": "^1.6.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctinaa/littlereminders.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ctinaa/littlereminders/issues"
+  },
+  "homepage": "https://github.com/ctinaa/littlereminders#readme"
+}
